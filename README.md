@@ -10,16 +10,14 @@ These instructions will get basic understanding of how puzzles work on codingame
 
 What things you need to install?
 
-```
-⋅⋅* Browser!
-⋅⋅* Internet xd
-```
+* Browser!
+* Internet xd
 
 ### Few 1st steps to make
 
-⋅⋅* Create account on www.codingame.com and www.github.com
-⋅⋅* Personalize your accounts to feel comfortable with interface.
-⋅⋅* Deal with your very first puzzle on codingame.
+* Create account on www.codingame.com and www.github.com
+* Personalize your accounts to feel comfortable with interface.
+* Deal with your very first puzzle on codingame.
 
 [Onboarding](https://www.codingame.com/training/easy/onboarding)
 
